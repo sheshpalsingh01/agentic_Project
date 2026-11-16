@@ -1,0 +1,15 @@
+langchain==1.4.3
+langchain-community==0.4.2
+langchain-core==1.8.1
+langchain-openai==1.8.0
+langchain-groq==1.2.0
+langgraph==1.2.14
+duckduckgo-search
+tavily-python
+python-dotenv
+langchain-classic==1.0.8
+langchainhub==0.1.21
+requests
+langsmith
+fastapi
+streamlit
